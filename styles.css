@@ -1,0 +1,164 @@
+body {
+  text-align: center;
+  background-color: #1a3c40;
+}
+
+/* Title */
+
+h1 {
+  color: #dbedf3;
+  font-family: "Poppins", sans-serif;
+  font-size: 3rem;
+  margin: 5% auto;
+}
+
+.title-logo {
+  width: 7%;
+}
+
+/* Cards */
+
+h3{
+    color: #dbedf3;
+    font-size: 2rem;
+    margin-top: 5%;
+}
+
+.row {
+  margin: auto 13%;
+}
+
+.btn {
+  height: 13vw;
+  width: 13vw;
+  background-color: rgb(255, 255, 255);
+  border-radius: 25%;
+  border: solid 0.5rem #417d7a;
+}
+
+.tom {
+  background-image: url("images/tom.png");
+  background-position: center;
+  background-size: 65%;
+  background-repeat: no-repeat;
+}
+
+.foot {
+  background-image: url("images/foot.png");
+  background-position: center;
+  background-size: 65%;
+  background-repeat: no-repeat;
+}
+
+.cymbal {
+  background-image: url("images/cymbal.png");
+  background-position: center;
+  background-size: 65%;
+  background-repeat: no-repeat;
+}
+
+.drum {
+  background-image: url("images/drum.png");
+  background-position: center;
+  background-size: 65%;
+  background-repeat: no-repeat;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+
+
+
+/* Bottom */
+h4{
+    font-family: "Handlee", sans-serif;
+    margin : 6%;
+    color: #dbedf3;
+}
+
+
+
+
+
+@media (max-width : 500px) {
+
+    
+h1 {
+  color: #dbedf3;
+  font-family: "Poppins", sans-serif;
+  font-size: 3rem;
+  margin: 10% auto;
+}
+
+.title-logo {
+  width: 18%;
+}
+
+/* Cards */
+
+h3{
+    color: #dbedf3;
+    font-size: 2rem;
+    margin-top: 5%;
+}
+
+.row {
+  margin: auto 10%;
+}
+
+.btn {
+  height: 28vw;
+  width: 28vw;
+  background-color: rgb(255, 255, 255);
+  border-radius: 25%;
+  border: solid 0.5rem #417d7a;
+  margin-top: 10%;
+}
+
+.tom {
+  background-image: url("images/tom.png");
+  background-position: center;
+  background-size: 65%;
+  background-repeat: no-repeat;
+}
+
+.foot {
+  background-image: url("images/foot.png");
+  background-position: center;
+  background-size: 65%;
+  background-repeat: no-repeat;
+}
+
+.cymbal {
+  background-image: url("images/cymbal.png");
+  background-position: center;
+  background-size: 65%;
+  background-repeat: no-repeat;
+}
+
+.drum {
+  background-image: url("images/drum.png");
+  background-position: center;
+  background-size: 65%;
+  background-repeat: no-repeat;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+
+
+
+/* Bottom */
+h4{
+    font-family: "Handlee", sans-serif;
+    margin-top : 30%;
+    color: #dbedf3;
+}
+
+}
